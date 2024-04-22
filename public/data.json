@@ -1,0 +1,142 @@
+[
+  {
+    "id":1,
+    "ProductName": "Soft Cotton T-Shirt",
+    "Color": "Red",
+    "Category": "Apparel",
+    "Price": 15.99
+  },
+  {
+    "id":2,
+    "ProductName": "Eco-friendly Water Bottle",
+    "Color": "Blue",
+    "Category": "Accessories",
+    "Price": 12.5
+  },
+  {
+    "id":3,
+    "ProductName": "Wireless Earbuds",
+    "Color": "Black",
+    "Category": "Electronics",
+    "Price": 99.95
+  },
+  {
+    "id":4,
+    "ProductName": "Insulated Travel Mug",
+    "Color": "Silver",
+    "Category": "Home Goods",
+    "Price": 25.0
+  },
+  {
+    "id":5,
+    "ProductName": "Multi-tool Knife",
+    "Color": "Gray",
+    "Category": "Outdoor",
+    "Price": 47.3
+  },
+  {
+    "id":6,
+    "ProductName": "Yoga Mat",
+    "Color": "Purple",
+    "Category": "Fitness",
+    "Price": 34.99
+  },
+  {
+    "id":7,
+    "ProductName": "Bamboo Cutting Board",
+    "Color": "Natural",
+    "Category": "Kitchenware",
+    "Price": 20.75
+  },
+  {
+    "id":8,
+    "ProductName": "Vegan Leather Wallet",
+    "Color": "Brown",
+    "Category": "Accessories",
+    "Price": 45.0
+  },
+  {
+    "id":9,
+    "ProductName": "LED Desk Lamp",
+    "Color": "White",
+    "Category": "Electronics",
+    "Price": 39.99
+  },
+  {
+    "id":10,
+    "ProductName": "Microfiber Towel Set",
+    "Color": "Green",
+    "Category": "Home Textiles",
+    "Price": 29.9
+  },
+  {
+    "id":11,
+    "ProductName": "Portable Bluetooth Speaker",
+    "Color": "Black",
+    "Category": "Electronics",
+    "Price": 58.99
+  },
+  {
+    "id":12,
+    "ProductName": "Handmade Ceramic Vase",
+    "Color": "Blue",
+    "Category": "Home Decor",
+    "Price": 65.0
+  },
+  {
+    "id":13,
+    "ProductName": "Stainless Steel Watch",
+    "Color": "Silver",
+    "Category": "Accessories",
+    "Price": 110.0
+  },
+  {
+    "id":14,
+    "ProductName": "Running Sneakers",
+    "Color": "Neon Yellow",
+    "Category": "Footwear",
+    "Price": 89.95
+  },
+  {
+    "id":15,
+    "ProductName": "Graphic Novel",
+    "Color": "N/A",
+    "Category": "Books",
+    "Price": 24.99
+  },
+  {
+    "id":16,
+    "ProductName": "Silk Necktie",
+    "Color": "Red",
+    "Category": "Apparel",
+    "Price": 32.5
+  },
+  {
+    "id":17,
+    "ProductName": "Board Game",
+    "Color": "Multi",
+    "Category": "Games",
+    "Price": 50.0
+  },
+  {
+    "id":18,
+    "ProductName": "Scented Candle",
+    "Color": "Lavender",
+    "Category": "Home Decor",
+    "Price": 18.75
+  },
+  {
+    "id":19,
+    "ProductName": "Garden Gloves",
+    "Color": "Pink",
+    "Category": "Gardening",
+    "Price": 15.5
+  },
+  {
+    "id":20,
+    "ProductName": "Wall Mounted Clock",
+    "Color": "Black",
+    "Category": "Home Decor",
+    "Price": 42.0
+  }
+]
